@@ -1,0 +1,19 @@
+{
+    "name": "totalinfo-tech/contact",
+    "description": "This will send email to admin and save contact query in database",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "TotalinfoTech\\Contact\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tahir Mehmood",
+            "email": "tahir@total-infotech.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
